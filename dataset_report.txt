@@ -1,4 +1,11 @@
 ﻿گزارش دیتاست شبکه برق سایبر-فیزیکی (R-LMAG Style)
+
+Resilient LLM-Based Multi-Agent Generator for
+Offensive-Defensive Decision-Making in OT Power
+Dispatching Networks
+Mahdi Yousefi and Reza Ebrahimi Atani Department of Electrical Engineering
+University of Guilan, Rasht, Iran
+Email: {mahdi.yousefi, rebrahimi}@guilan.ac.ir
 ================================================================================
 تاریخ تولید:       2026-02-04 15:50:13
 ورژن نرم‌افزار:    1.0.0
@@ -21,3 +28,4 @@
 این دیتاست برای استفاده در تحقیقات آکادمیک آزاد است.
 لطفاً در صورت استفاده، به مقاله مرجع ارجاع دهید:
   "Reinforcement Learning for Microgrid Attack Generation (R-LMAG)"
+
