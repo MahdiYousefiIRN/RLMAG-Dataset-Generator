@@ -29,4 +29,4 @@ Email: {mahdi.yousefi, rebrahimi}@guilan.ac.ir
 
 این دیتاست برای استفاده در تحقیقات آکادمیک آزاد است.
 لطفاً در صورت استفاده، به مقاله مرجع ارجاع دهید:
-  "Reinforcement Learning for Microgrid Attack Generation (R-LMAG)"
+  "Resilient LLM-Based Multi-Agent Generator (R-LMAG)"
