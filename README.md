@@ -65,11 +65,6 @@ This dataset is released for **academic research purposes only**.
 If used, please cite:
 
 ```
-Resilient LLM-Based Multi-Agent Generator (R-LMAG)
+✅ Resilient LLM-Based Multi-Agent Generator (R-LMAG)
 ```
-
-
-✅ اضافه‌کردن بخش Attack Models
-✅ قالب Markdown پیشرفته GitHub
-
-را هم آماده کنم — فقط بفرمایید.
+ 
